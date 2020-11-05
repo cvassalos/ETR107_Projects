@@ -5,6 +5,7 @@ i2c.init(sda=pin15, scl=pin13)
 sensor = am2320.AM2320(i2c)
 
 tempReadings = []
+
 while True:
 	if button_a.is_pressed():
 		try:
@@ -13,5 +14,7 @@ while True:
 		except OSError:
 			display.scroll("Err")
 	if button_b.is_pressed():
-		display.scroll("End")
-		break
+        try: 
+            sensor.measure()
+            display.scroll(str(sensor.humidity()) + "%")
+            

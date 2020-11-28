@@ -1,2 +1,2 @@
 <h1>My Hiking Buddy ReadMe</h1>
-**Features**
+<b>Features</b>

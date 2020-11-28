@@ -1,5 +1,5 @@
 <h1>My Hiking Buddy ReadMe</h1>
-<strong>Features</strong>
+<strong>Features:</strong>
 <ul>
   <li>Pedometer</li>
   <li>Temp Tracker</li>

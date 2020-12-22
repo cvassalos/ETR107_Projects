@@ -1,5 +1,5 @@
 <h1>My Hiking Buddy ReadMe</h1>
-<img srg = "ETR107_Projects/Final_Project/hikingbuddy.jpg" >
+<img srg = "hikingbuddy.jpg" >
 <strong>Features:</strong>
 <ul>
   <li>Pedometer</li>

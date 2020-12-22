@@ -1,4 +1,5 @@
 <h1>My Hiking Buddy ReadMe</h1>
+![](ETR107_Projects/Final_Project/hikingbuddy.jpg)
 <strong>Features:</strong>
 <ul>
   <li>Pedometer</li>
